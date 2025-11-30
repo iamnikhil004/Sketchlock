@@ -1,0 +1,5 @@
+/* src/styles.css */
+body { margin: 0; font-family: Inter, system-ui, Arial, sans-serif; background: #fafafa; color: #111; }
+button { padding: 6px 10px; border: 1px solid #ddd; background: #fff; cursor: pointer; border-radius: 6px; }
+button:hover { box-shadow: 0 1px 3px rgba(0,0,0,0.06); }
+input[type="range"] { width: 100%; }
